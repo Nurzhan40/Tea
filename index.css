@@ -1,0 +1,193 @@
+body{
+    background-image: url(mjt.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 47%
+}
+
+@media (max-width: 768px) {
+    body {
+      font-size: 14px;
+    }
+  }
+  @media (min-width: 769px) and (max-width: 1024px) {
+    body {
+      font-size: 16px;
+    }
+  }
+.photo{
+    position: relative;
+    top: 100px;
+    left: 120%;
+}
+
+.Text{
+    font-family: Times New Roman;
+    color: lawngreen;
+    position: relative;
+    top: -380px;
+    left: 3%;
+}
+.lal{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+    .Bab{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 100px;
+
+}
+
+.Vcc{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+
+.Kjh{
+    font-family: Arial;
+    position: relative;
+    font-size: 30px;
+}
+
+.centered {
+    position: absolute;
+    top: 1250px;
+    left: 1310px;
+    transform: translate(-50%, -50%);
+    font-size: 90px;
+    font-family: Times New Roman;
+}
+
+.center {
+    position: absolute;
+    top: 1350px;
+    left: 1370px;
+    transform: translate(-50%, -50%);
+    font-size: 20px;
+    font-family: Times New Roman;
+}
+
+.hhh {
+    position: relative;
+    top: 0px;
+    left: -3%;
+}
+
+.phot{
+    position: relative;
+    top: 100px;
+    left: 120%;
+}
+
+.Text2{
+    color: lawngreen;
+    position: relative;
+    top: -380px;
+    left: 30%;
+    font-family: sans-serif;
+}
+
+.lpo{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 80px;
+}
+
+.B{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+
+}
+
+.pho{
+    position: relative;
+    top: -50px;
+    left: 75%;
+}
+.ph{
+    position: relative;
+    top: -0,01px;
+    left: 3%;
+}
+
+.od {
+    position: relative;
+    top: 0px;
+    right: 330px;
+}
+
+.OPL{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 70px;
+    top: 500px;
+    left: 50%;
+}
+
+.MJT{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 550px;
+    left: -30%;
+}
+
+.OPPOOI{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 550px;
+    left: -30%;
+}
+
+.MJT{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 550px;
+    left: -30%;
+}
+
+.WEW{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 650px;
+    left: -30%;
+}
+
+.WET{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 650px;
+    left: -30%;
+}
+
+.UYJ{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 300px;
+    right: -100%;
+}
+
+.MBX{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 300px;
+    right: -100%;
+}
+
+.MB{
+    font-family: Times New Roman;
+    position: relative;
+    font-size: 20px;
+    top: 400px;
+    right: -100%;
+}
